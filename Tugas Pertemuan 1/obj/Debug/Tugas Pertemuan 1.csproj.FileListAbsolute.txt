@@ -1,0 +1,7 @@
+D:\23.11.5748\Tugas Pertemuan 1\Tugas Pertemuan 1\obj\Debug\Tugas Pertemuan 1.csproj.AssemblyReference.cache
+D:\23.11.5748\Tugas Pertemuan 1\Tugas Pertemuan 1\obj\Debug\Tugas Pertemuan 1.csproj.CoreCompileInputs.cache
+D:\23.11.5748\Tugas Pertemuan 1\Tugas Pertemuan 1\bin\Debug\Tugas Pertemuan 1.exe.config
+D:\23.11.5748\Tugas Pertemuan 1\Tugas Pertemuan 1\bin\Debug\Tugas Pertemuan 1.exe
+D:\23.11.5748\Tugas Pertemuan 1\Tugas Pertemuan 1\bin\Debug\Tugas Pertemuan 1.pdb
+D:\23.11.5748\Tugas Pertemuan 1\Tugas Pertemuan 1\obj\Debug\Tugas Pertemuan 1.exe
+D:\23.11.5748\Tugas Pertemuan 1\Tugas Pertemuan 1\obj\Debug\Tugas Pertemuan 1.pdb
